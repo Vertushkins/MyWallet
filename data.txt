@@ -1,0 +1,25 @@
+Date: 2023-05-23
+Category: income
+Sum: 30000
+Description: salary
+
+Date: 2023-07-01
+Category: expense
+Sum: 100
+Description: ticket
+
+Date: 2024-03-02
+Category: expense
+Sum: 1000
+Description: gift
+
+Date: 2024-03-27
+Category: income
+Sum: 1000
+Description: freelance
+
+Date: 2024-02-13
+Category: expense
+Sum: 500
+Description: cocktail
+
